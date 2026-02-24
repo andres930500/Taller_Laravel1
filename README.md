@@ -1,8 +1,8 @@
-# 📚 Taller PHP Avanzado - Laravel 12
+# Taller PHP Avanzado - Laravel 12
 
 Proyecto desarrollado para la asignatura de Programación PHP, aplicando conceptos de arquitectura MVC, servicios y manipulación de datos.
 
-## 🚀 Requerimientos Implementados
+## Requerimientos Implementados
 
 ### 1. Gestión de Estudiantes y Envíos
 * **Análisis de Estudiantes:** Cálculo de promedios por carrera, identificación de la carrera con mayor dificultad y listado de alumnos destacados.
@@ -23,7 +23,7 @@ Proyecto desarrollado para la asignatura de Programación PHP, aplicando concept
 * **Generación de PDF:** Implementación de la librería `barryvdh/laravel-dompdf`.
 * **Gestión de Dependencias:** Composer con autocarga PSR-4.
 
-## 💻 Instalación Local
+##  Instalación Local
 1. `git clone https://github.com/andres930500/Taller_Laravel1.git`
 2. `composer install`
 3. `cp .env.example .env`
